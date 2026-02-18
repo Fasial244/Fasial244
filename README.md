@@ -8,7 +8,7 @@ Executing offensive security assessments, solving complex CTF challenges, and co
 ### ⚔️ Arsenal & Infrastructure
 * **Weaponization & Tooling:** `C++` | `Python`
 * **Scripting & Automation:** `PowerShell` | `Bash`
-* **Environments:** `Linux`| `Windows` | | `Docker` | `Git`
+* **Environments:** `Linux`| `Windows` | `Docker` | `Git`
 
 ### 🧠 Active Intel & Training
 - 📝 Training for: ...
@@ -23,9 +23,5 @@ Executing offensive security assessments, solving complex CTF challenges, and co
 
 ---
 
-### 📊 Telemetry
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fasial244&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
 
 
