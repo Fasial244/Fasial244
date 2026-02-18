@@ -8,7 +8,7 @@ Executing offensive security assessments, solving complex CTF challenges, and co
 ### ⚔️ Arsenal & Infrastructure
 * **Weaponization & Tooling:** `C++` | `Python`
 * **Scripting & Automation:** `PowerShell` | `Bash`
-* **Environments:** `Linux`|`Windows`| | `Docker` | `Git`
+* **Environments:** `Linux`| `Windows` | | `Docker` | `Git`
 
 ### 🧠 Active Intel & Training
 - 📝 Training for: ...
